@@ -1,0 +1,176 @@
+
+
+
+#geral {width:980px;
+	height:1250px; 
+margin: 0 auto 0 auto;
+font-family:sans-serif;
+}
+#topo {background-color:#001a33;
+width:980px;
+height:100px;
+position: relative;
+bottom:-17px;
+
+}
+
+#topo_titulo img {
+position: relative;
+top:25px;
+left:35px;
+}
+
+#topo_titulo h1,h2{
+	width:160px; 
+	height:30px;
+float: right;
+font-size: 20px;}
+
+#topo_titulo h1{position: relative;
+	top:15px;
+	color:#0066cc ;
+	font-style: oblique;
+}
+
+#topo_titulo h2{position: relative;
+	bottom:20px;
+	color:white;
+	font-style: oblique;
+}
+#topo_menu {
+	color-rendering: white;
+text-decoration: none; }
+
+#topo_titulo {
+	margin-top:17px;
+width: 250px;
+height:100px;
+float:left;
+position: relative;
+bottom:20px;
+}
+
+ul{
+	width:  710px;
+	height:   100px;
+	float:left;
+	padding:0px;
+	position: relative;
+		bottom:50px;
+		font-style: oblique;
+		font-size: 25px;
+}
+
+li {float: left;
+	font-size:15px;
+	list-style: none;
+	border-right:2px solid white;
+	text-align:center;
+	width:140px;
+	margin-top:80px;
+    position:relative;
+    left:15px;
+}
+
+li:last-child {border-right:0px;}
+
+ #conteudo {position: relative;
+ 	bottom: 33px;}
+
+#conteudo_caixa {
+width:350px;
+height:200px;
+position: relative;
+left:530px;
+bottom:300px;
+ background-color: #1A3243;
+ opacity: 0.9;
+ font-size: 21px;
+ font-style: oblique;
+ padding:25px;
+ color:white;
+
+}
+#num {color:gold; 
+width:140px;
+position: relative;
+left:205px;
+bottom:45px; 
+}
+#conteudo_caixa img{float: left;
+margin-right:10px;}
+
+#conteudo_2 {width:980px;
+ position: relative;
+	bottom:250px;
+
+}
+#top_destino img {}
+
+#top_destino h3{
+width: 80px; 
+position: relative;
+bottom:65px ;
+left:49px ;
+color:white;
+font-style: oblique;
+font-size: 28px;
+}
+
+#destino{width:470px;
+	height:470px;
+	float:left;
+position: relative;
+left:20px;
+font-style: oblique;
+bottom:-20px;
+}
+
+#top_destino {background: #4db8ff;
+width:470px;
+height:45px;}
+
+
+#top_nossa {background: #e6ac00;
+width:420px;
+height:45px;
+position: relative;
+bottom:28px;
+}
+
+#top_nossa  img{
+float: left;
+position: relative;
+top:3px;
+left:5px;
+}
+#top_nossa  h3{
+	width:200px;
+	position: relative;
+	left:17px;
+    bottom: -5px;
+    color:white;
+    font-style: oblique;
+    font-size: 28px;
+}
+
+
+#nossa_frota {width:420px;
+	height:470px  ;
+float: right;
+position: relative;
+right:25px;
+font-style: oblique;
+bottom:-20px;
+}
+
+#rodape {
+	position: relative;
+	left:20px;
+	bottom:200px;
+	font-style: oblique;
+}
+#con_des {
+	position: relative;
+	bottom:-20px;
+}
